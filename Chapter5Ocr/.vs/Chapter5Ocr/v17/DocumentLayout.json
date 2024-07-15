@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter5Ocr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FD4892-8BF5-4322-AE35-0F12A5C30AC0}|Chapter5Ocr\\Chapter5Ocr.csproj|c:\\users\\ashir\\onedrive\\desktop\\final draft\\repo\\building-intelligent-apps-with-.net-and-azure-ai-services\\chapter5ocr\\chapter5ocr\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FD4892-8BF5-4322-AE35-0F12A5C30AC0}|Chapter5Ocr\\Chapter5Ocr.csproj|solutionrelative:chapter5ocr\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FD4892-8BF5-4322-AE35-0F12A5C30AC0}|Chapter5Ocr\\Chapter5Ocr.csproj|c:\\users\\ashir\\onedrive\\desktop\\final draft\\repo\\building-intelligent-apps-with-.net-and-azure-ai-services\\chapter5ocr\\chapter5ocr\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3FD4892-8BF5-4322-AE35-0F12A5C30AC0}|Chapter5Ocr\\Chapter5Ocr.csproj|solutionrelative:chapter5ocr\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter5Ocr\\Chapter5Ocr\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Chapter5Ocr\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter5Ocr\\Chapter5Ocr\\MainPage.xaml",
+              "RelativeToolTip": "Chapter5Ocr\\MainPage.xaml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T06:41:47.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter5Ocr\\Chapter5Ocr\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter5Ocr\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter5Ocr\\Chapter5Ocr\\MainPage.xaml.cs",
+              "RelativeToolTip": "Chapter5Ocr\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:41:46.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

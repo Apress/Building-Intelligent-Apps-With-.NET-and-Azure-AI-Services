@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\controllers\\summarizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\controllers\\summarizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\business\\azureopenaibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\business\\azureopenaibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\business\\iazureopenaibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\business\\iazureopenaibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\model\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\model\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\chapter8-textsummarizer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\chapter8-textsummarizer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\chapter8-textsummarizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\chapter8-textsummarizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter8-textsummarizer\\chapter8-textsummarizer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D219701-4417-44D6-AE70-E365C393064D}|Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj|solutionrelative:chapter8-textsummarizer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chapter8-TextSummarizer.http",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer.http",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Chapter8-TextSummarizer.http",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer.http",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Chapter8-TextSummarizer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-02T14:03:13.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\appsettings.json",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\appsettings.json",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\appsettings.json",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T08:07:49.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payload.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Model\\Payload.cs",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Model\\Payload.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Model\\Payload.cs",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Model\\Payload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:12:20.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AzureOpenAiBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Business\\AzureOpenAiBusiness.cs",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Business\\AzureOpenAiBusiness.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Business\\AzureOpenAiBusiness.cs",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Business\\AzureOpenAiBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:13:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAzureOpenAiBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Business\\IAzureOpenAiBusiness.cs",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Business\\IAzureOpenAiBusiness.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Business\\IAzureOpenAiBusiness.cs",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Business\\IAzureOpenAiBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:13:21.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Program.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Program.cs",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:11:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SummarizeController.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Controllers\\SummarizeController.cs",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Controllers\\SummarizeController.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Controllers\\SummarizeController.cs",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Controllers\\SummarizeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:19:28.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chapter8-TextSummarizer.csproj",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Chapter8-TextSummarizer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T14:02:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Chapter8-TextSummarizer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter8-TextSummarizer\\Chapter8-TextSummarizer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Chapter8-TextSummarizer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:20:33.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\displayfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\displayfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\displayfile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\displayfile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\fileupload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\fileupload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\fileupload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\fileupload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\services\\invoiceprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\services\\invoiceprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\services\\iinvoiceprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\services\\iinvoiceprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\chapter6-receiptprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\chapter6-receiptprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|c:\\users\\ashir\\onedrive\\desktop\\codebase\\chapter6-receiptprocessor\\chapter6-receiptprocessor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E1D244-DDE7-4956-86AE-54CDCCE04402}|Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj|solutionrelative:chapter6-receiptprocessor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T07:41:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileUpload.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T07:39:51.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUpload.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml.cs",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml.cs",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\FileUpload.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:40:11.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayFile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml.cs",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml.cs",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\DisplayFile.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:41:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T07:44:14.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\appsettings.Development.json",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T07:09:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\appsettings.json",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\appsettings.json",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T07:09:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Program.cs",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:09:50.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Services\\InvoiceProcessor.cs",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Services\\InvoiceProcessor.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Services\\InvoiceProcessor.cs",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Services\\InvoiceProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:30:33.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInvoiceProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Services\\IInvoiceProcessor.cs",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Services\\IInvoiceProcessor.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Services\\IInvoiceProcessor.cs",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Services\\IInvoiceProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:30:24.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:27:38.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Model\\Invoice.cs",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Model\\Invoice.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Model\\Invoice.cs",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Model\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:30:56.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chapter6-ReceiptProcessor.csproj",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:10:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chapter6-ReceiptProcessor\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\codebase\\Chapter6-ReceiptProcessor\\Chapter6-ReceiptProcessor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Chapter6-ReceiptProcessor\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T07:10:05.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

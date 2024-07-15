@@ -1,0 +1,6 @@
+@Chapter7_ContentFlagger_HostAddress = http://localhost:5182
+
+GET {{Chapter7_ContentFlagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

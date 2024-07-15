@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Chapter5Ocr.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="155"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a race car number eight" />
+
+            <Label
+            Text="Welcome to AT Corp!"
+            Style="{StaticResource Headline}" />
+
+            <Entry
+            x:Name="entAbsolutePath"
+            Text=""
+            Placeholder="Please provide the absolute path of your image file"></Entry>
+            <Entry
+            x:Name="entSubscriptionKey"
+            Text=""
+            Placeholder="Please provide the subscription key of your AI vision resource"></Entry>
+            <Entry
+            x:Name="entEndpoint"
+            Text=""
+            Placeholder="Please provide the endpoint of your vision AI resource"></Entry>
+
+            <Button
+            x:Name="btnExtractText"
+            Text="Extract text"
+            Clicked ="btnExtractText_Clicked"
+            HorizontalOptions="Fill" />
+
+            <Label
+            x:Name="lblExtractedTextResult"
+            Text=""
+            Style="{StaticResource SubHeadline}" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

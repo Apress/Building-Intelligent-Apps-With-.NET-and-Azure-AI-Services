@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|c:\\users\\ashir\\onedrive\\desktop\\final draft\\repo\\building-intelligent-apps-with-.net-and-azure-ai-services\\chapter2documentclassifier\\chapter2documentclassifier\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|solutionrelative:chapter2documentclassifier\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|c:\\users\\ashir\\onedrive\\desktop\\final draft\\repo\\building-intelligent-apps-with-.net-and-azure-ai-services\\chapter2documentclassifier\\chapter2documentclassifier\\documentclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|solutionrelative:chapter2documentclassifier\\documentclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|c:\\users\\ashir\\onedrive\\desktop\\final draft\\repo\\building-intelligent-apps-with-.net-and-azure-ai-services\\chapter2documentclassifier\\chapter2documentclassifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|solutionrelative:chapter2documentclassifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|c:\\users\\ashir\\onedrive\\desktop\\final draft\\repo\\building-intelligent-apps-with-.net-and-azure-ai-services\\chapter2documentclassifier\\chapter2documentclassifier\\chapter2documentclassifier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A46C6C8-1E6A-4382-B7EB-718889D08C70}|Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj|solutionrelative:chapter2documentclassifier\\chapter2documentclassifier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chapter2DocumentClassifier.csproj",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj",
+              "RelativeDocumentMoniker": "Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj",
+              "RelativeToolTip": "Chapter2DocumentClassifier\\Chapter2DocumentClassifier.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T09:39:22.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter2DocumentClassifier\\Program.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\Program.cs",
+              "RelativeToolTip": "Chapter2DocumentClassifier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:11:08.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\local.settings.json",
+              "RelativeDocumentMoniker": "Chapter2DocumentClassifier\\local.settings.json",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\local.settings.json",
+              "RelativeToolTip": "Chapter2DocumentClassifier\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T06:08:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\DocumentClassifier.cs",
+              "RelativeDocumentMoniker": "Chapter2DocumentClassifier\\DocumentClassifier.cs",
+              "ToolTip": "C:\\Users\\ashir\\OneDrive\\Desktop\\Final Draft\\repo\\Building-Intelligent-Apps-With-.NET-and-Azure-AI-Services\\Chapter2DocumentClassifier\\Chapter2DocumentClassifier\\DocumentClassifier.cs",
+              "RelativeToolTip": "Chapter2DocumentClassifier\\DocumentClassifier.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAnwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:07:57.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

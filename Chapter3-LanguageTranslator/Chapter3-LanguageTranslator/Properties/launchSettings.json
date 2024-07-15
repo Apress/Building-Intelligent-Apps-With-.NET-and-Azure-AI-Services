@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chapter3_LanguageTranslator": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7073",
+      "launchBrowser": false
+    }
+  }
+}

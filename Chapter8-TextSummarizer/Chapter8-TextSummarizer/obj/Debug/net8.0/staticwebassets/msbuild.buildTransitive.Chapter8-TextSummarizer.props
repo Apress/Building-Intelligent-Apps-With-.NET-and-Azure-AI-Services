@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chapter8-TextSummarizer.props" />
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\ashir\OneDrive\Desktop\codebase\Chapter5Ocr\Chapter5Ocr\Chapter5Ocr.csproj;x64
